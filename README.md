@@ -1,4 +1,4 @@
-## WHO AM I 
+## WHO AM I <linkedin.com/in/hariharan>
 I am Hariharan, Robotics, Ai, Mechatronics Enthusiast
 ## WHAT I CURRENTLY DO
 Working as a part time intern(Ai Developer) at WiselyWise
