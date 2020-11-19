@@ -1,5 +1,11 @@
-### Hi there 👋
-
+## WHO AM I 
+I am Hariharan, Robotics, Ai, Mechatronics Enthusiast
+## WHAT I CURRENTLY DO
+Working as a part time intern(Ai Developer) at WiselyWise
+## WHAT I LEARN AT PRESENT
+Intersection of Reinforcement learning and Robotics
+## WHAT NEXT 
+Robotics Research Internship at IIIT-A
 <!--
 **hariharan20/hariharan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
